@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>fs</tabTrigger>
+  <description>Flash Success Statement</description>
+  <content><![CDATA[flash[:success] = "$1"]]></content>
+  <scope>source.ruby</scope>
+</snippet>

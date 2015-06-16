@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>ba</tabTrigger>
+  <description>Before Action Statement</description>
+  <content><![CDATA[before_action :]]></content>
+  <scope>source.ruby</scope>
+</snippet>

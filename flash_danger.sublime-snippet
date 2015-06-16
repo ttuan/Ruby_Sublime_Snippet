@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>fd</tabTrigger>
+  <description>Flash Danger Statement</description>
+  <content><![CDATA[flash[:danger] = "$1"]]></content>
+  <scope>source.ruby</scope>
+</snippet>

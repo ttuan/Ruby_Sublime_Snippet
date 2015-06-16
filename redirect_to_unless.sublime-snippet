@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>rtu</tabTrigger>
+  <description> redirect with condition</description>
+  <content><![CDATA[redirect_to ${1:url} unless ${2:condition}]]></content>
+  <scope>source.ruby</scope>
+</snippet>

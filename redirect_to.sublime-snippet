@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>rt</tabTrigger>
+  <description>"redirect to" statement</description>
+  <content><![CDATA[redirect_to $1]]></content>
+  <scope>source.ruby</scope>
+</snippet>

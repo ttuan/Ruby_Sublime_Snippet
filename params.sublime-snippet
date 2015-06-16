@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>pr</tabTrigger>
+  <description> xxx_params</description>
+  <content><![CDATA[params.require(:${1:controller}).permit(:${2:attribute})]]></content>
+  <scope>source.ruby</scope>
+</snippet>

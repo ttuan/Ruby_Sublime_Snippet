@@ -1,0 +1,9 @@
+<snippet>
+  <tabTrigger>iee</tabTrigger>
+  <description>If else end Statement</description>
+  <content><![CDATA[
+  	if ${1:condition}
+  	else
+  	end]]></content>
+  <scope>source.ruby</scope>
+</snippet>

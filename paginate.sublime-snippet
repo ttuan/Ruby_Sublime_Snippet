@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>pg</tabTrigger>
+  <description>paginate Statement</description>
+  <content><![CDATA[paginate(:page params[:page])]]></content>
+  <scope>source.ruby</scope>
+</snippet>

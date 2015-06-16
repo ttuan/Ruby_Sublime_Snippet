@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>g</tabTrigger>
+  <description> get in routes</description>
+  <content><![CDATA[get '${1:prefix}' =>  '${2:controller#action}']]></content>
+  <scope>source.ruby</scope>
+</snippet>

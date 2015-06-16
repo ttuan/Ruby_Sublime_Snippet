@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>o</tabTrigger>
+  <description>Only Statement</description>
+  <content><![CDATA[only: [:$1]]]></content>
+  <scope>source.ruby</scope>
+</snippet>

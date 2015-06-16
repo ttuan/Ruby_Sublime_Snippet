@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>ua</tabTrigger>
+  <description>update attributes Statement</description>
+  <content><![CDATA[update_attributes(user_params)]]></content>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>be</tabTrigger>
+  <description> belongs_to</description>
+  <content><![CDATA[belongs_to :$1]]></content>
+  <scope>source.ruby</scope>
+</snippet>

@@ -1,0 +1,6 @@
+<snippet>
+  <tabTrigger>r</tabTrigger>
+  <description>render Statement</description>
+  <content><![CDATA[render '$1']]></content>
+  <scope>source.ruby</scope>
+</snippet>
